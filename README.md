@@ -1,5 +1,15 @@
 # Creative Technologist Portfolio
 
+## Contents
+
+- [About Me](#about-me)
+- [Expertise](#expertise)
+- [Approach](#approach)
+- [Services](#services)
+- [Rebranding Timeline](#rebranding-timeline)
+- [Breakdown](#breakdown)
+- [Brand Story](#brand-story)
+
 ## About Me
 
 I specialize in finding technological solutions to complex challenges. By exploring diverse technologies and approaches, I deliver effective pathways to results—not just code, but comprehensive solutions tailored to your specific needs.
