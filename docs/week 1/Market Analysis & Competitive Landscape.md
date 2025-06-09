@@ -5,10 +5,7 @@ Integrates biology, materials science, and computation (“material ecology”);
 **Strengths**: Combines design, biology, and technology innovatively; presentations are visually compelling and backed by strong research.  
 **Gaps**: Content can be highly technical, potentially limiting accessibility for general audiences.  
 
-Sources:
-- [Wikipedia - Neri Oxman](https://en.wikipedia.org/wiki/Neri_Oxman)
-- [Oxman](https://oxman.com/)
-- [Artland Magazine](https://magazine.artland.com/neri-oxman/)
+Sources: [Wikipedia - Neri Oxman](https://en.wikipedia.org/wiki/Neri_Oxman) - [Oxman](https://oxman.com/) - [Artland Magazine](https://magazine.artland.com/neri-oxman/)
 
 ## Gabo Arora (Immersive Storyteller)
 UN VR pioneer—director and creator of Clouds Over Sidra, blending empathy and social impact via immersive tech.  
@@ -16,10 +13,7 @@ UN VR pioneer—director and creator of Clouds Over Sidra, blending empathy and 
 **Strengths**: Uses immersive VR for engaging storytelling; strong narrative skills with impactful social themes.  
 **Gaps**: VR technology limitations may affect audience experience; presentations may require advanced technical setups.
 
-Sources:
-- [Wikipedia - Gabo Arora](https://en.wikipedia.org/wiki/Gabo_Arora)
-- [Gabo Arora](https://www.gaboarora.com)
-- [Cool Hunting](https://coolhunting.com/tech/virtual-reality-united-nations-gabo-arora/)
+Sources: [Wikipedia - Gabo Arora](https://en.wikipedia.org/wiki/Gabo_Arora) - [Gabo Arora](https://www.gaboarora.com) - [Cool Hunting](https://coolhunting.com/tech/virtual-reality-united-nations-gabo-arora/)
 
 ## Andrew Melchior
 British‑German creative technologist and CTO of Massive Attack. He's turned music into interactive participatory experiences: facial-expression-based remix apps, AI-music-DNA art, and neural‑network robot art. A model of iterative tech experimentation at music/business intersection
@@ -27,10 +21,7 @@ British‑German creative technologist and CTO of Massive Attack. He's turned mu
 **Strengths**: Deep expertise in music technology; innovative integration of sound and visuals; offers a CTO’s insightful perspective.  
 **Gaps**: Presentation may include technical jargon challenging for non-experts; appeals to a niche audience.
 
-Sources:
-- [Wikipedia - Andrew Melchior](https://en.wikipedia.org/wiki/Andrew_Melchior)
-- [Andrew Melchior](https://andymelchior.com/)
-- [Creative Review](https://www.creativereview.co.uk/robert-del-naja-andrew-melchior/)
+Sources: [Wikipedia - Andrew Melchior](https://en.wikipedia.org/wiki/Andrew_Melchior) - [Andrew Melchior](https://andymelchior.com/) - [Creative Review](https://www.creativereview.co.uk/robert-del-naja-andrew-melchior/)
 
 ## Susan Kare (Pixel Art & GUI Icon Designer)
 Visionary behind early Macintosh/NeXT icons; defined intuitive visual language in computing interfaces.
@@ -38,10 +29,7 @@ Visionary behind early Macintosh/NeXT icons; defined intuitive visual language i
 **Strengths**: Iconic UI design work; clear, simple communication style; provides valuable historical perspective on UI design.  
 **Gaps**: Focus tends to be more retrospective, with less emphasis on future trends.
 
-Sources: 
-- [Wikipedia - Susan Kare](https://en.wikipedia.org/wiki/Susan_Kare)
-- [Computing History](https://www.computinghistory.org.uk/det/1792/Susan-Kare/)
-- [Domestika](https://www.domestika.org/en/blog/3320-susan-kare-an-iconic-career)
+Sources: [Wikipedia - Susan Kare](https://en.wikipedia.org/wiki/Susan_Kare) - [Computing History](https://www.computinghistory.org.uk/det/1792/Susan-Kare/) - [Domestika](https://www.domestika.org/en/blog/3320-susan-kare-an-iconic-career)
 
 ## Zachary Lieberman (Interactive Media Artist)
 Co‑founder of openFrameworks; creates gesture-driven installations and expressive code-based art.
@@ -49,10 +37,7 @@ Co‑founder of openFrameworks; creates gesture-driven installations and express
 **Strengths**: Expertise in interactive art; co-founder of openFrameworks; delivers engaging live demos.  
 **Gaps**: Highly technical content requiring coding familiarity, which may be difficult for some audiences.
 
-Sources:
-- [Wikipedia - Zach Lieberman](https://en.wikipedia.org/wiki/Zachary_Lieberman)
-- [Openframeworks](https://openframeworks.cc/)
-- [Zach](http://zach.li/)
+Sources: [Wikipedia - Zach Lieberman](https://en.wikipedia.org/wiki/Zachary_Lieberman) - [Openframeworks](https://openframeworks.cc/) - [Zach](http://zach.li/)
 
 ## Christopher Csíkszentmihályi (Artist-Technologist • Cornell)
 Builds civic- and protest-robots, community radio systems; applies tech in socially engaged participatory systems  
@@ -60,10 +45,7 @@ Builds civic- and protest-robots, community radio systems; applies tech in socia
 **Strengths**: Focus on civic technology and activism; presents innovative inventions with social impact.  
 **Gaps**: Presentations can be dense with technical details; activist tone may not resonate universally.
 
-Sources:
-- [Wikipedia - Christopher Csíkszentmihályi](https://en.wikipedia.org/wiki/Christopher_Cs%C3%ADkszentmih%C3%A1lyi)
-- [Fondation Langlois](https://www.fondation-langlois.org/html/e/page.php?NumPage=366)
-- [Insticc](https://portal.insticc.org/ResearchersArchive/618d1e7916124385c045373d)
+Sources: [Wikipedia - Christopher Csíkszentmihályi](https://en.wikipedia.org/wiki/Christopher_Cs%C3%ADkszentmih%C3%A1lyi) - [Fondation Langlois](https://www.fondation-langlois.org/html/e/page.php?NumPage=366) - [Insticc](https://portal.insticc.org/ResearchersArchive/618d1e7916124385c045373d)
 
 ## Jingyuan “Candice” Wu (Creative Technologist & Filmmaker)
 Combines architecture, real‑time engines, AI, and XR to prototype speculative, narrative-rich immersive experiences  
@@ -71,10 +53,7 @@ Combines architecture, real‑time engines, AI, and XR to prototype speculative,
 **Strengths**: Specializes in speculative design and XR filmmaking; creative, forward-thinking with strong visual storytelling.  
 **Gaps**: Speculative content may feel abstract; XR technology access may be a barrier for some audiences.
 
-Sources: 
-- [Muse Award - Jingyuan “Candice” Wu](https://museaward.com/winner-interview-profile.php?id=279)
-- [Jingyuan Wu](https://www.jingyuanwu.com/about-me)
-- [French design awards](https://frenchdesignawards.com/winner-interview-profile.php?id=42)
+Sources: [Muse Award - Jingyuan “Candice” Wu](https://museaward.com/winner-interview-profile.php?id=279) - [Jingyuan Wu](https://www.jingyuanwu.com/about-me) - [French design awards](https://frenchdesignawards.com/winner-interview-profile.php?id=42)
 
 ## Comparison with somaticbits
 
