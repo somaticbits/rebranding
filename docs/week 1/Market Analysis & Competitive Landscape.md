@@ -119,3 +119,38 @@ Sources:
 5. **Lack of Technical Knowledge Transfer**  
    Problem: Teams often remain dependent on consultants or developers without gaining lasting insight or autonomy.  
    Your Contribution: Your focus on knowledge transfer empowers internal teams to maintain, evolve, and scale solutions independently.  
+
+## Current trends (June 2025)
+
+1. AI-Driven Creativity & Automation
+Generative AI is being rapidly integrated into creative workflows—use cases include ad creation, video scripting, audio/video editing, and avatar generation.  
+Major companies like Meta, Google, Adobe, and Runway are building tools to help creators produce high-quality content faster and at scale.  
+**What this means for you:** Strong demand for architects and consultants who guide adoption of generative-AI tools within creative processes—balancing automation, control, and creative vision.
+
+2. Extended Reality (AR/VR/XR) Adoption
+XR technologies are growing fast—consumer, enterprise, and healthcare sectors are embracing VR/AR for immersive training, visualization, and remote collaboration.  
+In real estate, XR tools will represent an $80 billion opportunity by 2025, enabling virtual tours, smart building integration, and immersive marketing.  
+**What this means for you:** Opportunities to architect immersive platforms, prototype interactive applications, and integrate XR into existing business models.
+
+3. Cross-Industry Collaboration & Customized Platforms
+Businesses increasingly partner across sectors (tech + healthcare, retail + logistics) to co-create digital platforms grounded in real-world contexts.  
+Industry-tailored tools (e.g., PropTech, health-tech) are emerging, demanding secure, compliant, and extensible architectures.  
+**What this means for you:** Strong fit for your ability to bridge disciplines and guide multi-stakeholder solution design from strategy to deployment.
+
+4. Edge & 5G-Powered Real-Time Solutions
+The rise of 5G and edge computing is enabling real-time data processing for IoT, live video streaming, autonomous systems, and smart infrastructure.  
+**What this means for you:** A demand for solution architects who can design low-latency, distributed systems—especially for live interactive media, remote control, or smart city frameworks.
+
+5. Sustainability-Aware & Secure Digital Workflows
+Creative software is growing at ~10% annual CAGR; trends include cloud collaboration, blockchain for digital rights, green UX, and data-efficient solutions.  
+Secure-by-design principles, compliance, and data protection are critical—especially in healthcare, finance, and public sector deployments.  
+**What this means for you:** Your pragmatic architecture expertise and emphasis on constraints and compliance are directly relevant here.
+
+### Summary: Why You’re in Demand
+- Generative AI integration for creative processes
+- XR/AR/VR system design and immersive experience prototyping
+- Cross-industry digital collaboration requiring strategic, multi-domain architecture
+- Edge + 5G systems for real-time media and IoT deployment
+- Secure, sustainable workflows that align with regulatory and ecological expectations
+
+Your blend of problem framing, iterative prototyping, and cross-disciplinary navigation positions you perfectly to address these market needs, from strategy to solution implementation.
