@@ -40,10 +40,14 @@ jobs:
       - name: Install dependencies
         run: uv pip install -e . --system
 
-      - run: mkdocs build
+      - run: | 
+          mkdocs build
+          ls -la
+          ls -la site || echo "site directory not found"
+
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
+          publish_dir: ./site
