@@ -1,0 +1,5 @@
+site_name: "somaticbits rebranding"
+theme:
+  name: shadcn
+  pygments_style: dracula
+  icon: heroicons:rocket-launch
