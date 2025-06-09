@@ -1,5 +1,7 @@
 # Workflow for deploying to github
 name: Publish docs via GitHub Pages
+permissions:
+  contents: write
 on:
   push:
     branches:
@@ -47,5 +49,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
-        permissions:
-          contents: write
