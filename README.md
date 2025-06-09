@@ -60,7 +60,7 @@ My process centers on understanding the core problem before determining the solu
 [Week 3](./timeline/Week3.md)
 
 # Progress
-[Week 1](./week1/index.md)
+[Week 1](./week1/Index.md)
 
 # Brand Story
 ## The Bridge Builder: A Creative Technologist's Journey
