@@ -97,3 +97,25 @@ Sources:
 | **Lieberman**        | Interactive creative coding | Playful, community-first terms     | Installations, open-source tools, education                      |
 | **Csíkszentmihályi** | Civic-activist technology   | Social systems oriented            | Civic tech design, community project development                 |
 | **Wu**               | Speculative XR futures      | Narrative + spatial tech lexicon   | XR prototyping, AI storytelling, immersive experience consulting |
+
+## Key industry problems
+
+1. **Misaligned Tech Implementations**  
+   Problem: Companies often adopt technologies that don’t align with their actual needs, leading to wasted resources and misfit systems.  
+   Your Contribution: Through deep requirements analysis and pragmatic technology selection, you ensure solutions are tailored, scalable, and context-appropriate.  
+
+2. **Fragmented Collaboration Between Technical and Non-Technical Teams**  
+   Problem: Many projects fail due to poor communication and lack of alignment between business goals and technical execution.  
+   Your Contribution: Your strength in cross-disciplinary collaboration bridges that gap, ensuring that technical solutions reflect business priorities.  
+
+3. **Inefficient Problem-Solving Under Ambiguity**  
+   Problem: Complex challenges often stall progress due to vague requirements or shifting constraints.  
+   Your Contribution: You excel in structuring ambiguity, investigating deeply, and identifying strategic paths to clarity using solution architecture and prototyping.  
+
+4. **Stalled Innovation Due to Fear of Technical Uncertainty**  
+   Problem: Organizations hesitate to explore new technologies due to limited internal expertise or fear of failure.  
+   Your Contribution: By evaluating and recommending optimal technologies, you de-risk innovation and enable confident experimentation through rapid prototyping and validation.  
+
+5. **Lack of Technical Knowledge Transfer**  
+   Problem: Teams often remain dependent on consultants or developers without gaining lasting insight or autonomy.  
+   Your Contribution: Your focus on knowledge transfer empowers internal teams to maintain, evolve, and scale solutions independently.  
