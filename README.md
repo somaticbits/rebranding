@@ -55,12 +55,9 @@ My process centers on understanding the core problem before determining the solu
 - Outreach campaign development
 
 # Timeline breakdown
-[Week 1](./timeline/Week1.md)  
-[Week 2](./timeline/Week2.md)  
-[Week 3](./timeline/Week3.md)
-
-# Progress
-[Week 1](./week1/Index.md)
+[Week 1](<./timeline/Week 1.md>)  
+[Week 2](<./timeline/Week 2.md>)  
+[Week 3](<./timeline/Week 3.md>)
 
 # Brand Story
 ## The Bridge Builder: A Creative Technologist's Journey
