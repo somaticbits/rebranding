@@ -54,10 +54,13 @@ My process centers on understanding the core problem before determining the solu
 - Networking strategy implementation
 - Outreach campaign development
 
-# Breakdown
-[Week1](./timeline/Week1.md)  
-[Week2](./timeline/Week2.md)  
-[Week3](./timeline/Week3.md)
+# Timeline breakdown
+[Week 1](./timeline/Week1.md)  
+[Week 2](./timeline/Week2.md)  
+[Week 3](./timeline/Week3.md)
+
+# Progress
+[Week 1](./week1/index.md)
 
 # Brand Story
 ## The Bridge Builder: A Creative Technologist's Journey
@@ -67,13 +70,8 @@ In a world where technology often races ahead of practical application, I found 
 **Building bridges between what's needed and what's possible.**
 
 My journey began with curiosity rather than certainty. While others chased the newest technological trends, I became fascinated with understanding problems deeply before reaching for solutions. This approach wasn't always the quickest path, but it consistently led to more meaningful outcomes.
-
 Through projects across diverse industries, patterns emerged. Technical challenges rarely existed in isolation—they were connected to human needs, business constraints, and organizational contexts. The most valuable solutions weren't necessarily the most complex, but the ones that thoughtfully addressed these interconnections.
-
 What drives me is the moment when a client sees their challenge from a new perspective. When technical complexity transforms into clear possibilities. When what seemed impossible becomes achievable through thoughtful exploration and practical application.
-
 I believe technology should serve people, not the other way around. My work focuses on creating solutions that empower rather than overwhelm, that simplify rather than complicate, and that build capacity rather than dependency.
-
 Every project teaches me something new. Every challenge expands my toolkit. And with each solution delivered, the bridge between technical potential and practical impact grows stronger.
-
 I'm here to help navigate the journey from technical challenge to meaningful solution—one bridge at a time.
