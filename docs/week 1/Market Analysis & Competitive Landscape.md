@@ -80,44 +80,44 @@ Sources: [Muse Award - Jingyuan “Candice” Wu](https://museaward.com/winner-i
 ## Key industry problems
 
 1. **Misaligned Tech Implementations**  
-   Problem: Companies often adopt technologies that don’t align with their actual needs, leading to wasted resources and misfit systems.  
+   **Problem:** Companies often adopt technologies that don’t align with their actual needs, leading to wasted resources and misfit systems.  
    **Your Contribution:** Through deep requirements analysis and pragmatic technology selection, you ensure solutions are tailored, scalable, and context-appropriate.  
 
 2. **Fragmented Collaboration Between Technical and Non-Technical Teams**  
-   Problem: Many projects fail due to poor communication and lack of alignment between business goals and technical execution.  
+   **Problem:** Many projects fail due to poor communication and lack of alignment between business goals and technical execution.  
    **Your Contribution:** Your strength in cross-disciplinary collaboration bridges that gap, ensuring that technical solutions reflect business priorities.  
 
 3. **Inefficient Problem-Solving Under Ambiguity**  
-   Problem: Complex challenges often stall progress due to vague requirements or shifting constraints.  
+   **Problem:** Complex challenges often stall progress due to vague requirements or shifting constraints.  
    **Your Contribution:** You excel in structuring ambiguity, investigating deeply, and identifying strategic paths to clarity using solution architecture and prototyping.  
 
 4. **Stalled Innovation Due to Fear of Technical Uncertainty**  
-   Problem: Organizations hesitate to explore new technologies due to limited internal expertise or fear of failure.  
+   **Problem:** Organizations hesitate to explore new technologies due to limited internal expertise or fear of failure.  
    **Your Contribution:** By evaluating and recommending optimal technologies, you de-risk innovation and enable confident experimentation through rapid prototyping and validation.  
 
 5. **Lack of Technical Knowledge Transfer**  
-   Problem: Teams often remain dependent on consultants or developers without gaining lasting insight or autonomy.  
+   **Problem:** Teams often remain dependent on consultants or developers without gaining lasting insight or autonomy.  
    **Your Contribution:** Your focus on knowledge transfer empowers internal teams to maintain, evolve, and scale solutions independently.  
 
 ## Current trends (June 2025)
 
-1. AI-Driven Creativity & Automation  
+1. **AI-Driven Creativity & Automation**  
 Generative AI is being rapidly integrated into creative workflows—use cases include ad creation, video scripting, audio/video editing, and avatar generation. Major companies like Meta, Google, Adobe, and Runway are building tools to help creators produce high-quality content faster and at scale.  
 **What this means for you:** Strong demand for architects and consultants who guide adoption of generative-AI tools within creative processes—balancing automation, control, and creative vision.
 
-2. Extended Reality (AR/VR/XR) Adoption  
+2. **Extended Reality (AR/VR/XR) Adoption**   
 XR technologies are growing fast—consumer, enterprise, and healthcare sectors are embracing VR/AR for immersive training, visualization, and remote collaboration. In real estate, XR tools will represent an $80 billion opportunity by 2025, enabling virtual tours, smart building integration, and immersive marketing.  
 **What this means for you:** Opportunities to architect immersive platforms, prototype interactive applications, and integrate XR into existing business models.
 
-3. Cross-Industry Collaboration & Customized Platforms    
+3. **Cross-Industry Collaboration & Customized Platforms**  
 Businesses increasingly partner across sectors (tech + healthcare, retail + logistics) to co-create digital platforms grounded in real-world contexts.  Industry-tailored tools (e.g., PropTech, health-tech) are emerging, demanding secure, compliant, and extensible architectures.  
 **What this means for you:** Strong fit for your ability to bridge disciplines and guide multi-stakeholder solution design from strategy to deployment.
 
-4. Edge & 5G-Powered Real-Time Solutions  
+4. **Edge & 5G-Powered Real-Time Solutions**  
 The rise of 5G and edge computing is enabling real-time data processing for IoT, live video streaming, autonomous systems, and smart infrastructure.  
 **What this means for you:** A demand for solution architects who can design low-latency, distributed systems—especially for live interactive media, remote control, or smart city frameworks.
 
-5. Sustainability-Aware & Secure Digital Workflows  
+5. **Sustainability-Aware & Secure Digital Workflows**  
 Creative software is growing at ~10% annual CAGR; trends include cloud collaboration, blockchain for digital rights, green UX, and data-efficient solutions. Secure-by-design principles, compliance, and data protection are critical—especially in healthcare, finance, and public sector deployments.    
 **What this means for you:** Your pragmatic architecture expertise and emphasis on constraints and compliance are directly relevant here.
 
