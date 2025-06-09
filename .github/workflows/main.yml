@@ -1,4 +1,5 @@
-name: Publish MkDocs
+# Workflow for deploying to github
+name: Publish docs via GitHub Pages
 on:
   push:
     branches:
@@ -10,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'  # Updated to match requires-python in pyproject.toml
 
@@ -24,10 +25,10 @@ jobs:
 
       - name: Get uv cache dir
         id: uv-cache
-        run: echo "::set-output name=dir::$HOME/.cache/uv"
+        run: echo "dir=$HOME/.cache/uv" >> $GITHUB_OUTPUT
 
       - name: Cache dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: ${{ steps.uv-cache.outputs.dir }}
           key: ${{ runner.os }}-uv-${{ hashFiles('**/pyproject.toml') }}
@@ -38,6 +39,8 @@ jobs:
         run: uv pip install -e .
 
       - run: mkdocs build
+        env:
+          ENABLE_PDF_EXPORT: 1
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
