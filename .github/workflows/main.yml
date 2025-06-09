@@ -1,7 +1,5 @@
 # Workflow for deploying to github
 name: Publish docs via GitHub Pages
-permissions:
-  contents: write
 on:
   push:
     branches:
@@ -11,6 +9,8 @@ jobs:
   deploy:
     name: Deploy docs
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout main
         uses: actions/checkout@v4
@@ -40,15 +40,11 @@ jobs:
       - name: Install dependencies
         run: uv pip install -e . --system
 
-      - run: | 
-          mkdocs build
-          ls -la
-          ls -la site || echo "site directory not found"
-
+      - run: mkdocs build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ${{ github.workspace }}/site
+          publish_dir: ./site
 
