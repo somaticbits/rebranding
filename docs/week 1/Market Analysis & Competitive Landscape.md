@@ -24,7 +24,7 @@ Sources:
 ## Andrew Melchior
 British‑German creative technologist and CTO of Massive Attack. He's turned music into interactive participatory experiences: facial-expression-based remix apps, AI-music-DNA art, and neural‑network robot art. A model of iterative tech experimentation at music/business intersection
 
-**Strengths**: Deep expertise in music technology; innovative integration of sound and visuals; offers a CTO’s insightful perspective.
+**Strengths**: Deep expertise in music technology; innovative integration of sound and visuals; offers a CTO’s insightful perspective.  
 **Gaps**: Presentation may include technical jargon challenging for non-experts; appeals to a niche audience.
 
 Sources:
@@ -68,7 +68,7 @@ Sources:
 ## Jingyuan “Candice” Wu (Creative Technologist & Filmmaker)
 Combines architecture, real‑time engines, AI, and XR to prototype speculative, narrative-rich immersive experiences  
 
-**Strengths**: Specializes in speculative design and XR filmmaking; creative, forward-thinking with strong visual storytelling.
+**Strengths**: Specializes in speculative design and XR filmmaking; creative, forward-thinking with strong visual storytelling.  
 **Gaps**: Speculative content may feel abstract; XR technology access may be a barrier for some audiences.
 
 Sources: 
