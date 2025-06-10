@@ -1,6 +1,7 @@
 # Personal Skills Audit
 ## Comprehensive skills inventory
 ### Personal skills
+- Generative art systems - Expert
 - TouchDesigner / Max/MSP / cables.gl - Expert
 - Typescript / React & Preact / Node.js / Bun / TailwindCSS - Expert
 - Full stack engineering - Expert
