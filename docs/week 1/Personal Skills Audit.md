@@ -1,20 +1,20 @@
 # Personal Skills Audit
 ## Comprehensive skills inventory
 ### Personal skills
-- Large Language Models (LLM) & Agents - Advanced
-- Creative AI - Intermediate
 - TouchDesigner / Max/MSP / cables.gl - Expert
-- UE5 (Unreal Engine 5) - Intermediate
-- DevOps / CI/CD - Intermediate
-- Full stack engineering - Expert
 - Typescript / React & Preact / Node.js / Bun / TailwindCSS - Expert
+- Full stack engineering - Expert
+- Figma plugin API - Expert
+- Interactive Media System Engineering - Expert
+- Large Language Models (LLM) & Agents - Advanced
 - Web3 / blockchain integration - Advanced
 - Real-time rendering - Advanced
-- Figma plugin API - Expert
 - Github / GitLab / Plastic SCM / VCS - Advanced
+- Creative AI - Intermediate
+- UE5 (Unreal Engine 5) - Intermediate
+- DevOps / CI/CD - Intermediate
 - GLSL - Intermediate
 - Hardware prototyping - Intermediate
-- Interactive Media System Engineering - Expert
 
 ### Soft skills
 - Effective Communication
