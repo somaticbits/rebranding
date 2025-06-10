@@ -1,4 +1,4 @@
-# Personal Skills Audit & Specialization Mapping
+# Personal Skills Audit
 ## Comprehensive skills inventory
 ### Personal skills
 - Large Language Models (LLM) & Agents - Advanced

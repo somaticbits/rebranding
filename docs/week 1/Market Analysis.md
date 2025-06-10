@@ -1,4 +1,4 @@
-# Market Analysis & Competitive Landscape
+# Market Analysis
 ## Neri Oxman (Designer • MIT Media Lab)
 Integrates biology, materials science, and computation (“material ecology”); founded Mediated Matter group at MIT  
 
