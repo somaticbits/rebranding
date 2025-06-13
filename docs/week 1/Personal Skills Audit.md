@@ -1,6 +1,6 @@
 # Personal Skills Audit
 ## Comprehensive skills inventory
-### Personal skills
+### Technical skills
 - Generative art systems - Expert
 - TouchDesigner / Max/MSP / cables.gl - Expert
 - Typescript / React & Preact / Node.js / Bun / TailwindCSS - Expert
@@ -46,15 +46,15 @@
 
 ## Gap analysis
 ### Alignment
-Your expertise in LLMs, Web3/blockchain, and real-time rendering aligns with AI-driven creativity and XR adoption trends.
+Expertise in LLMs, Web3/blockchain, and real-time rendering aligns with AI-driven creativity and XR adoption trends.
 Full stack engineering and Interactive Media System Engineering match the demand for cross-industry collaboration and customized platforms.
 DevOps/CI/CD and VCS skills support secure workflows and edge computing needs.
-Your problem-solving approach directly addresses inefficient problem-solving and misaligned tech implementations.
+The problem-solving approach directly addresses inefficient problem-solving and misaligned tech implementations.
 
 ### Differentiation
-Your ability to bridge technical and non-technical teams through effective communication and interdisciplinary thinking is a unique strength.
-Your focus on knowledge transfer empowers teams, addressing dependency issues in the market.
-Your iterative prototyping approach de-risks innovation, enabling confident experimentation.
+The ability to bridge technical and non-technical teams through effective communication and interdisciplinary thinking is a unique strength.
+Focus on knowledge transfer empowers teams, addressing dependency issues in the market.
+Iterative prototyping approach de-risks innovation, enabling confident experimentation.
 
 ### Gaps
 Intermediate proficiency in UE5 and GLSL may limit opportunities in high-end XR/AR/VR development.
@@ -78,20 +78,20 @@ Addressing ambiguity and misaligned implementations with structured approaches t
 Advanced skills in integrating generative AI, blockchain, and interactive media systems into cohesive workflows.
 
 
-This combination positions you as a versatile technologist capable of solving complex challenges while fostering innovation and collaboration
+This combination creates a versatile technological profile capable of solving complex challenges while fostering innovation and collaboration
 
 ## Specialization focus areas
 1. **Generative AI & Creative Automation**  
 Expertise in LLMs, Creative AI, and Figma plugin API aligns with the growing demand for AI-driven creativity and automation in workflows.
-Your ability to integrate generative AI into creative processes positions you as a valuable consultant for innovation-focused industries.
+The ability to integrate generative AI into creative processes offers valuable consulting potential for innovation-focused industries.
 
 2. **Interactive Media & Immersive Systems**  
-Advanced skills in TouchDesigner, Max/MSP, cables.gl, and real-time rendering make you a strong fit for designing interactive systems and immersive experiences.
-This domain leverages your creative coding expertise and interdisciplinary thinking to prototype and deliver engaging solutions.
+Advanced skills in TouchDesigner, Max/MSP, cables.gl, and real-time rendering provide strong capabilities for designing interactive systems and immersive experiences.
+This domain leverages creative coding expertise and interdisciplinary thinking to prototype and deliver engaging solutions.
 
 3. **Cross-Industry Solution Architecture**  
-Combining full stack engineering, Web3/blockchain integration, and Interactive Media System Engineering, you excel in building tailored platforms for diverse industries.
-Your ability to bridge technical and non-technical teams ensures scalable, context-appropriate solutions.
+Combining full stack engineering, Web3/blockchain integration, and Interactive Media System Engineering enables excellence in building tailored platforms for diverse industries.
+The ability to bridge technical and non-technical teams ensures scalable, context-appropriate solutions.
 
 ## Positioning Statements for Specialization Areas
 **Generative AI & Creative Automation**  
